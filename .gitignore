@@ -1,0 +1,5 @@
+java_redis.jar
+target/*
+target/
+.idea/
+.DS_Store
